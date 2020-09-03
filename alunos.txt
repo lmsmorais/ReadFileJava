@@ -1,0 +1,4 @@
+aluno; idade; curso
+Fulano; 21; SISTINFO
+Beltrano; 19; SISTINFO
+Ciclano; 20; SISTINFO
